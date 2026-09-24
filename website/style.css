@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(17, 17, 17);
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+  font-size: 16px;
+}
+
+cdiv 
+{
+  width: 30%;
+  display: inline-block;
+}
+
+#wrapper
+{
+    width: 100%;
+    overflow: auto;
+}
+
+#shead
+{
+    width: auto;
+    position: relative;
+    top: 55px;
+    
+}
+
+#head
+{
+    position: relative;
+    top: 30px;
+    margin-left: 200px;
+    border: 3px solid #73AD21;
+}
+
+#sidbar
+{
+    position: relative;
+    
+    border: 3px solid #73AD21;
+    float: left;
+}
+
+cgiga
+{
+    font-size: 20em;
+    font-weight: 1000;
+}
+
+cgjoab
+{
+    font-size: 10em;
+    font-weight: 900;
+}
+
+chuge
+{
+    font-size: 5.5em;
+    font-weight: 900;
+}
+
+cbig
+{
+    font-size: 3.5em;
+    font-weight: 700;
+}
+
+ch1
+{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p.centered
+{
+    text-align:center;
+}
+
+ccenter
+{
+  text-align:center;
+}
