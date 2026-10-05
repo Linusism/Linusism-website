@@ -1,0 +1,5 @@
+Bar: #000000
+Background: #545454
+Header: #FFFFFF
+Block with text: #b4b4b4
+CASE SENSITIVE
