@@ -1,7 +1,14 @@
-body {
+/* body {
   background-color: rgb(17, 17, 17);
   color: rgb(255, 255, 255);
   font-family: fantasy;
+  font-size: 16px;
+} */
+
+body {
+  background-color: #545454;
+  color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
 }
 
@@ -90,7 +97,8 @@ ccenter
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #717171; /* Black */
+  /* background-color: #717171; Black */
+  background-color: #000000;
   overflow-x: auto; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -100,13 +108,14 @@ ccenter
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 40px;
-  color: #aa0030;
+  /* color: #aa0030; */
+  color: #5170ff;
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #6254fc;
+  color: #38b6ff;
 }
 
 /* Style page content */
@@ -118,10 +127,11 @@ ccenter
 /* Text selection color */
 ::-moz-selection { /* Code for Firefox */
   color: rgb(255, 255, 255);
-  background: #6254fc;
+  background: #5170ff;
 }
 
 ::selection {
   color: rgb(255, 255, 255);
-  background: #6254fc;
+  background: #5170ff;
 }
+/* #hexadecimal */
