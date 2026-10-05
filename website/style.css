@@ -92,7 +92,7 @@ ccenter
 
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 200px; /* Set the width of the sidebar */
+  width: 300px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -116,6 +116,7 @@ ccenter
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
   color: #38b6ff;
+  text-decoration: underline;
 }
 
 /* Style page content */
