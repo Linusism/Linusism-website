@@ -49,6 +49,28 @@ cdiv
     height: 800px;
 }
 
+.rectangle {
+    width: 90%;
+    height: 70vh;
+    background-color: #b4b4b4;
+    position: relative;
+    margin: 2rem auto;
+}
+
+.rectangle-text {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #000000;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
 cgiga
 {
     font-size: 20em;
