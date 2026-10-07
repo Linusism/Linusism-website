@@ -165,7 +165,7 @@ ccenter
   /* padding-right: 5%; */
   /* margin-right: 500px; */
   float: left;
-  padding-left: 50px;
+  padding-left: 100px;
   padding-right: 50px;
 }
 
@@ -179,7 +179,7 @@ ccenter
   padding-bottom: auto;
   border: 1px solid #73AD21;
   padding-left: 50px;
-  padding-right: 50px;
+  padding-right: 100px;
 }
 
 /* Text selection color */
