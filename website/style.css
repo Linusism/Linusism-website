@@ -175,11 +175,11 @@ ccenter
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
-  margin-left: 900px;
+  margin-left: 950px;
   padding-bottom: auto;
   border: 1px solid #73AD21;
-  /* padding-left: 50px; */
-  /* padding-right: 50px; */
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /* Text selection color */
