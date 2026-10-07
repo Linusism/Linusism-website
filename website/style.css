@@ -155,6 +155,24 @@ ccenter
   padding: 0px 10px;
 }
 
+.text-box-l {
+  width: 40%;
+  position: inherit;
+  background-color: #b4b4b4;
+  overflow-x: auto;
+  padding-right: 5%;
+
+}
+
+.text-box-r {
+  width: 40%;
+  position: inherit;
+  background-color: #b4b4b4;
+  overflow-x: auto;
+  padding-left: 5%;
+
+}
+
 /* Text selection color */
 ::-moz-selection { /* Code for Firefox */
   color: rgb(255, 255, 255);
