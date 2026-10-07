@@ -167,6 +167,10 @@ ccenter
   float: left;
   padding-left: 50px;
   padding-right: 150px;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .text-box-r {
@@ -180,6 +184,10 @@ ccenter
   border: 1px solid #73AD21;
   padding-left: 100px;
   padding-right: 50px;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 /* Text selection color */
