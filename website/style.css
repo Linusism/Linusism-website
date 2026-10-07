@@ -158,6 +158,7 @@ ccenter
 
 .text-box-l {
   width: 300px;
+  height: auto;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
@@ -168,11 +169,12 @@ ccenter
 
 .text-box-r {
   width: 300px;
+  height: auto;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
   margin-left: 300px;
-
+  padding-bottom: auto;
 }
 
 /* Text selection color */
