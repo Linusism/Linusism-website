@@ -157,7 +157,6 @@ ccenter
 
 .text-box-l {
   width: 40%;
-  position: inherit;
   background-color: #b4b4b4;
   overflow-x: auto;
   /* padding-right: 5%; */
@@ -166,7 +165,6 @@ ccenter
 
 .text-box-r {
   width: 40%;
-  position: inherit;
   background-color: #b4b4b4;
   overflow-x: auto;
   margin-right: 40%;
