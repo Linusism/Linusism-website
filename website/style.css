@@ -155,22 +155,23 @@ ccenter
   padding: 0px 10px;
 }
 
+
 .text-box-l {
-  width: 160px;
+  width: 300px;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
   /* padding-right: 5%; */
-  margin-left: 160px;
+  margin-left: 300px;
 
 }
 
 .text-box-r {
-  width: 160px;
+  width: 300px;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
-  margin-right: 160px;
+  margin-right: 300px;
 
 }
 
