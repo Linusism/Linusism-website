@@ -156,21 +156,21 @@ ccenter
 }
 
 .text-box-l {
-  width: auto;
+  width: 70px;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
   /* padding-right: 5%; */
-  margin-left: auto;
+  margin-left: 70px;
 
 }
 
 .text-box-r {
-  width: auto;
+  width: 70px;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
-  margin-right: auto;
+  margin-right: 70px;
 
 }
 
