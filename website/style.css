@@ -160,7 +160,7 @@ ccenter
   position: inherit;
   background-color: #b4b4b4;
   overflow-x: auto;
-  padding-right: 5%;
+  /* padding-right: 5%; */
 
 }
 
@@ -169,7 +169,7 @@ ccenter
   position: inherit;
   background-color: #b4b4b4;
   overflow-x: auto;
-  padding-left: 5%;
+  margin-right: 40%;
 
 }
 
