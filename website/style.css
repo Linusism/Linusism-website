@@ -157,23 +157,23 @@ ccenter
 
 
 .text-box-l {
-  width: 300px;
+  width: 500px;
   height: auto;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
   /* padding-right: 5%; */
-  margin-right: 300px;
+  margin-right: 500px;
   float: left;
 }
 
 .text-box-r {
-  width: 300px;
+  width: 500px;
   height: auto;
   background-color: #b4b4b4;
   color: #000000;
   overflow-x: auto;
-  margin-left: 300px;
+  margin-left: 500px;
   padding-bottom: auto;
 }
 
