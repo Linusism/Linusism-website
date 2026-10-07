@@ -165,6 +165,8 @@ ccenter
   /* padding-right: 5%; */
   /* margin-right: 500px; */
   float: left;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .text-box-r {
@@ -176,6 +178,8 @@ ccenter
   margin-left: 600px;
   padding-bottom: auto;
   border: 1px solid #73AD21;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /* Text selection color */
