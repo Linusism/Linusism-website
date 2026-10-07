@@ -166,7 +166,7 @@ ccenter
   /* margin-right: 500px; */
   float: left;
   padding-left: 100px;
-  padding-right: 50px;
+  padding-right: 100px;
 }
 
 .text-box-r {
@@ -178,8 +178,8 @@ ccenter
   margin-left: 950px;
   padding-bottom: auto;
   border: 1px solid #73AD21;
-  padding-left: 50px;
-  padding-right: 100px;
+  padding-left: 100px;
+  padding-right: 50px;
 }
 
 /* Text selection color */
