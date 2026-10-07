@@ -58,7 +58,8 @@ cdiv
 }
 
 .rectangle-text {
-    position: absolute;
+    width: 68%;
+    height: 68vh;
     inset: 0;
 
     display: flex;
