@@ -164,7 +164,7 @@ ccenter
   overflow-x: auto;
   /* padding-right: 5%; */
   margin-right: 300px;
-
+  float: left;
 }
 
 .text-box-r {
