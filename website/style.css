@@ -165,8 +165,8 @@ ccenter
   /* padding-right: 5%; */
 
   float: left;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 75px;
+  padding-right: 75px;
 
   align-items: center;
   justify-content: center;
@@ -182,8 +182,8 @@ ccenter
   margin-left: 885px;
   padding-bottom: auto;
   border: 1px solid #73AD21;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 75px;
+  padding-right: 75px;
 
   align-items: center;
   justify-content: center;
