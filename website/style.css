@@ -210,3 +210,13 @@ ccenter
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
 }
+
+.grid-child-purple {
+  background-color: #9000f0;
+  color: #FFFFFF;
+}
+
+.grid-child-green {
+  background-color: #14ef00;
+  color: #000000;
+}
