@@ -111,11 +111,7 @@ ch1
 a {
   font-size: xx-large;
   font-weight: bold;
-  /* padding: 6px 8px 6px 16px; */
-  text-decoration: underline;
-  /* color: #aa0030; */
   color: #5170ff;
-  display: block;
 }
 
 p.centered
