@@ -218,7 +218,7 @@ ccenter
 .grid-container {
     display: grid;
     /* grid-template-columns: 1fr 1fr; */
-    grid-template-columns: 75px 75px;
+    grid-template-columns: 175px 175px;
     grid-gap: 20px;
     
 }
