@@ -228,11 +228,13 @@ ccenter
   position: absolute;
   /* left: -50; */
   margin-right: 210.5;
+  width: 650px;
   background-color: #b2b2b2;
   color: #000000;
 }
 
 .txt-box-r {
+  width: 650px;
   background-color: #b2b2b2;
   color: #000000;
 }
