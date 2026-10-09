@@ -217,11 +217,14 @@ ccenter
 
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* grid-template-columns: 1fr 1fr; */
+    grid-template-columns: 75px 75px;
     grid-gap: 20px;
+    
 }
 
 .txt-box {
   background-color: #b2b2b2;
   color: #000000;
 }
+
