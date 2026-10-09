@@ -226,10 +226,11 @@ ccenter
 
 .txt-box-l {
   position: absolute;
-  left: -150;
+  left: -50;
   background-color: #b2b2b2;
   color: #000000;
 }
+
 .txt-box-r {
   background-color: #b2b2b2;
   color: #000000;
