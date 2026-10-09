@@ -227,7 +227,7 @@ ccenter
 .txt-box-l {
   /* position: absolute; */
   /* left: -50; */
-  margin-left: 210.5;
+  margin-right: 210.5;
   background-color: #b2b2b2;
   color: #000000;
 }
