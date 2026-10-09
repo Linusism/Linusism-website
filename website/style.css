@@ -114,6 +114,10 @@ a {
   color: #5170ff;
 }
 
+a:hover {
+  color: #38b6ff;
+}
+
 p.centered
 {
     text-align:center;
