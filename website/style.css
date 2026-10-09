@@ -220,13 +220,14 @@ ccenter
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 650px 650px;
-  grid-gap: 200px;
+  grid-gap: 421;
     
 }
 
 .txt-box-l {
   /* position: absolute; */
   /* left: -50; */
+  margin-left: 210.5;
   background-color: #b2b2b2;
   color: #000000;
 }
