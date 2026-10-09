@@ -216,10 +216,12 @@ ccenter
 /* EXPERIMENTAL */
 
 .grid-container {
-    display: grid;
-    /* grid-template-columns: 1fr 1fr; */
-    grid-template-columns: 650px 650px;
-    grid-gap: 200px;
+  position: fixed;
+  width: max-content;
+  display: grid;
+  /* grid-template-columns: 1fr 1fr; */
+  grid-template-columns: 650px 650px;
+  grid-gap: 200px;
     
 }
 
