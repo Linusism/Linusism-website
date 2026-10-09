@@ -108,6 +108,11 @@ ch1
     font-weight: bold;
 }
 
+ch1 a {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
 p.centered
 {
     text-align:center;
