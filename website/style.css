@@ -216,7 +216,7 @@ ccenter
 /* EXPERIMENTAL */
 
 .grid-container {
-  position: fixed;
+  /* position: fixed; */
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 650px 650px;
