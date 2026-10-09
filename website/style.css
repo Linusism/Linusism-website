@@ -110,9 +110,8 @@ ch1
 
 a {
   font-size: xx-large;
-  font-weight: bold;
+  font-weight: normal;
   color: #5170ff;
-  font-weight: bold;
 }
 
 a:hover {
