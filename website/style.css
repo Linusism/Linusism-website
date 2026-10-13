@@ -224,7 +224,7 @@ ccenter
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 650px 650px;
   /* padding: 10px; */
-  gap: 30px;
+  gap: 50px;
 
   align-items: center;
   justify-content: center;
