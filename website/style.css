@@ -161,7 +161,7 @@ ccenter
 .main {
   margin-left: 280px; /* Same as the width of the sidebar */
   padding: 0px 10px;
-  
+
   align-items: center;
   justify-content: center;
 }
@@ -225,7 +225,10 @@ ccenter
   grid-template-columns: 650px 650px;
   /* padding: 10px; */
   gap: 30px;
-    
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;  
 }
 
 .grid-div {
