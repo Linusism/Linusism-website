@@ -221,10 +221,10 @@ ccenter
 .grid-container {
   /* position: fixed; */
   display: grid;
-  height: 400;
+  /* height: 400px; */
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 750px 750px;
-  grid-template-rows: 500 500;
+  grid-template-rows: 500px 500px;
   /* padding: 10px; */
   gap: 65px;
 
