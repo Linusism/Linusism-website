@@ -220,7 +220,6 @@ ccenter
 
 .grid-container {
   /* position: fixed; */
-  width: fit-content;
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 750px 750px;
