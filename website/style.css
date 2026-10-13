@@ -222,7 +222,7 @@ ccenter
   /* position: fixed; */
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
-  grid-template-columns: 650px 650px;
+  grid-template-columns: 750px 750px;
   /* padding: 10px; */
   gap: 140px;
 
