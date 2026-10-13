@@ -161,6 +161,9 @@ ccenter
 .main {
   margin-left: 280px; /* Same as the width of the sidebar */
   padding: 0px 10px;
+  
+  align-items: center;
+  justify-content: center;
 }
 
 
