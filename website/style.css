@@ -232,9 +232,9 @@ ccenter
 }
 
 .grid-div {
-  background-color: #f1f1f1;
+  background-color: #b2b2b2;
   color: #000000;
-  border: 1px solid rgb(0, 255, 0);
+  /* border: 1px solid rgb(0, 255, 0); */
   padding: 10px;
   font-size: 30px;
   text-align: center;
