@@ -225,7 +225,7 @@ ccenter
   grid-template-columns: 750px 750px;
   grid-template-rows: 350 350;
   /* padding: 10px; */
-  gap: 75px;
+  gap: 50px;
 
   align-items: center;
   justify-content: center;
