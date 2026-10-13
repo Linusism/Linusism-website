@@ -221,6 +221,7 @@ ccenter
 .grid-container {
   /* position: fixed; */
   display: grid;
+  height: 500;
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 750px 750px;
   grid-template-rows: 500 500;
