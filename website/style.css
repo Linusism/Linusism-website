@@ -223,7 +223,7 @@ ccenter
   display: grid;
   /* height: 400px; */
   /* grid-template-columns: 1fr 1fr; */
-  grid-template-columns: 725px 725px;
+  grid-template-columns: 700px 700px;
   grid-template-rows: 325px 325px;
   /* padding: 10px; */
   gap: 65px;
