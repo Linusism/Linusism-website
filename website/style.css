@@ -225,7 +225,7 @@ ccenter
   grid-template-columns: 750px 750px;
   grid-template-rows: 350 350;
   /* padding: 10px; */
-  gap: 100px;
+  gap: 75px;
 
   align-items: center;
   justify-content: center;
@@ -239,15 +239,4 @@ ccenter
   padding: 10px;
   font-size: 30px;
   text-align: center;
-}
-
-
-.txt-box-l {
-  background-color: #b2b2b2;
-  color: #000000;
-}
-
-.txt-box-r {
-  background-color: #b2b2b2;
-  color: #000000;
 }
