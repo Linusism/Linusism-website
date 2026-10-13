@@ -224,7 +224,7 @@ ccenter
     
 }
 
-.container div {
+.grid-container div {
   background-color: #f1f1f1;
   border: 1px solid rgb(0, 255, 0);
   padding: 10px;
