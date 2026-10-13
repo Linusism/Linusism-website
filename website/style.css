@@ -223,6 +223,7 @@ ccenter
   display: grid;
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 750px 750px;
+  grid-template-rows: 350 350;
   /* padding: 10px; */
   gap: 100px;
 
