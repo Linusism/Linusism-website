@@ -224,6 +224,15 @@ ccenter
     
 }
 
+.container div {
+  background-color: #f1f1f1;
+  border: 1px solid rgb(0, 255, 0);
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
 .txt-box-l {
   background-color: #b2b2b2;
   color: #000000;
