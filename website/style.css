@@ -234,6 +234,7 @@ ccenter
 }
 
 .txt-box-r {
+  position: absolute;
   margin-left: 421px;
   width: 650px;
   background-color: #b2b2b2;
