@@ -234,13 +234,22 @@ ccenter
   /* border: 1px solid rgb(0, 255, 0); */
 }
 
+.grid-div {
+  background-color: #b2b2b2;
+  color: #000000;
+  /* border: 1px solid rgb(0, 255, 0); */
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
 .grid-container-ab {
   /* position: fixed; */
   display: grid;
   /* height: 400px; */
   /* grid-template-columns: 1fr 1fr; */
   grid-template-columns: 625px 625px;
-  grid-template-rows: 400px 400px;
+  grid-template-rows: 440px 440px;
   /* padding: 10px; */
   gap: 190px;
 
@@ -250,14 +259,7 @@ ccenter
   /* border: 1px solid rgb(0, 255, 0); */
 }
 
-.grid-div {
-  background-color: #b2b2b2;
-  color: #000000;
-  /* border: 1px solid rgb(0, 255, 0); */
-  padding: 10px;
-  font-size: 30px;
-  text-align: center;
-}
+
 
 .grid-div-long {
   height: 100%;
