@@ -243,3 +243,13 @@ ccenter
   font-size: 30px;
   text-align: center;
 }
+
+.grid-div-long {
+  height: 100%;
+  background-color: #b2b2b2;
+  color: #000000;
+  /* border: 1px solid rgb(0, 255, 0); */
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
