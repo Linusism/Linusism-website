@@ -102,6 +102,12 @@ cbig
     font-weight: 700;
 }
 
+cnotbig
+{
+  font-size: 2.5em;
+  font-weight: 700;
+}
+
 ch1
 {
     font-size: xx-large;
