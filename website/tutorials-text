@@ -1,14 +1,14 @@
 how to migrate off of microsoft and other closed-source software
 
-Operating system
-if you know nothing about linux or bash: Linux mint is recommended, very stable, looks similar to windows, little to no terminal knowledge required. 
-Less customisable, but very good for daily driving. Lindows is also an option (not linspire), but it is far less stable. 
-For gaming, we recommend bazzite, with enhanced performance. a little higher maintainance, but worth it for a dedicated gaming machine. 
-If you are tired of the appearance of windows, try ubuntu, or if you trust yourself to do a little maintainence, debian. 
-Both with a very different appearance from windows, customisable dock especially with dash to dock extension, and easy access to custom keyboard shortcuts. 
-If you are already experienced with computers and are willing to risk stability for the newest features, try fedora. Higher maintainance, but very efficient when used right.
-
 Microsoft software
 For the office suite, obviously LibreOffice, its practically the same, but free. for VSCode, use vscodium. No question there. For github, just use git in your terminal.
 
+
+Operating system
+if you dont want to use a terminal at all: Linux mint is recommended, very stable, looks similar to windows. 
+Less customisable, but very good for daily driving. Lindows is also an option (not linspire), but it is far less stable. 
+For gaming, we recommend bazzite or steam os, with enhanced performance. a little higher maintainance, but worth it for a dedicated gaming machine. 
+if you are willing to use the terminal try ubuntu, or if you want something even more stable debian.
+If you want newer features try fedora. Higher maintainance, but very efficient when used right.
+If you are a masochist and enjoy suffering, use arch.
 
