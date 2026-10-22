@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 git add .
 
 read -p "Commit message: " message
