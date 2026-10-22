@@ -6,8 +6,9 @@ git commit -m "$message"
 
 read -p "Push or not? [Y/n] " yorn
 
-if (( "$yorn" = "n" )); then
-	echo 
+if (( "$yorn" = "n" )) ; then
+	echo not pushed.  
 else
+	echo pushed. 
 	git push
 fi
