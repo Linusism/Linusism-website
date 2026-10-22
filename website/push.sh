@@ -7,7 +7,7 @@ git commit -m "$message"
 read -p "Push or not? [Y/n] " yorn
 
 if (( "$yorn" = "n" )); then
-	exit
+	echo 
 else
 	git push
 fi
