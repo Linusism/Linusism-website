@@ -1,6 +1,13 @@
 #!/bin/sh
 git add .
 
-git commit -m "Autumatic update message"
+read -p "Commit message: " message
+git commit -m "$message"
 
-git push
+read -p "Push or not? [Y/n] " yorn
+
+if (( "$yorn" = "n" )); then
+	exit
+else
+	git push
+fi
